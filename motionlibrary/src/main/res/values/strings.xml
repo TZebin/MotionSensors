@@ -1,0 +1,45 @@
+<!--
+  ~ Copyright (C) 2016 Nishant Srivastava
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">MotionSensors_11142019</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="shake_gesture">Shake Gesture</string>
+    <string name="flip_gesture">Flip Gesture</string>
+    <string name="orientation_gesture">Orientation Gesture</string>
+    <string name="proximity_gesture">Proximity Gesture</string>
+    <string name="light_gesture">Light Detection</string>
+    <string name="wave_gesture">Wave Detection</string>
+    <string name="touch_detection">Touch Detection</string>
+    <string name="pinch_scale_gesture">Pinch Scale Detection</string>
+    <string name="sound_level_detection">Sound Level Detection</string>
+    <string name="movement_detection">Movement Detection</string>
+    <string name="chop_detector">Chop Detector</string>
+    <string name="wrist_twist_detection">Wrist Twist Detection</string>
+    <string name="hit_area">[ Hit Area ]</string>
+    <string name="touch_detector">Touch Detector</string>
+    <string name="view_events">View Sensor Events</string>
+    <string name="results_show_here">Results show here</string>
+    <string name="scroll_to_access_more_detectors">Scroll to access more detectors</string>
+    <string name="tilt_direction_detection">Tilt Direction Detection</string>
+    <string name="rotation_angle_detection">Rotation Angle Detection</string>
+    <string name="step_detector">Step Detector</string>
+    <string name="pickup_device_detector">Pickup Device Detector</string>
+    <string name="scoop_detector">Scoop Detector</string>
+
+    <string name="text_name_notification">Notification Name</string>
+</resources>
